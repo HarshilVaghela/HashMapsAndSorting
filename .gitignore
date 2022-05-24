@@ -1,0 +1,16 @@
+
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+.nb-gradle/
+
+# End of https://mrkandreev.name/snippets/gitignore-generator/#NetBean
+
+
+
+
